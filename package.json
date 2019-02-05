@@ -1,0 +1,36 @@
+{
+  "name": "gatsby-solo-google-gtag",
+  "version": "1.0.0",
+  "description": "A Gatsby Solo starter from AtomicGatsby.com featuring gatsby-plugin-google-gtag.",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "keywords": [
+    "Atomic Gatsby",
+    "GatsbyJS",
+    "Gatsby",
+    "gatsby-plug-google-gtag",
+    "Google gtag"
+  ],
+  "author": "John Milazzo <jm@atomicgatsby.com>",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnMilazzo/gatsby-solo-google-gtag.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JohnMilazzo/gatsby-solo-google-gtag/issues"
+  },
+  "homepage": "https://github.com/JohnMilazzo/gatsby-solo-google-gtag#readme",
+  "dependencies": {
+    "gatsby": "^2.0.115",
+    "gatsby-plugin-google-gtag": "^1.0.13",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
