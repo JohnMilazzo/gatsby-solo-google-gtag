@@ -1,4 +1,4 @@
-# gatsby-solo
+# gatsby-solo-google-gtag
 
 A GatsbyJS Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site with Google Analytics.
 
